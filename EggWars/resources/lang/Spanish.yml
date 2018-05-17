@@ -1,0 +1,11 @@
+#Spanish language file by @Alanf322
+
+arena-join: ''%prefixÂ§7 %player ha entrado a la partida [%online/%max]'
+arena-quit: '%prefix§7 %player ha salido [%online/%max]'
+arena-time-progres: '%prefix§7 el juego termina en %end seg.'
+
+waiting-popup: '%prefix §7|| §c¡Se necesitan más jugadores para comenzar!'
+starting-popup: '%prefix §7|| §aJuego comienza en %start seg.'
+
+voting-voted: '%prefix §aVotaste por %map!'
+voting-bad-map: '%prefix §c¡El mapa %map no existe!'
